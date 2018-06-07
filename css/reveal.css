@@ -1553,3 +1553,9 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+  section.a {
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+    
+}
