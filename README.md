@@ -62,9 +62,6 @@ reveal.js comes with a broad range of features including [nested slides](https:/
 - [Plugins](https://github.com/hakimel/reveal.js/wiki/Plugins,-Tools-and-Hardware): A list of plugins that can be used to extend reveal.js.
 
 
-## Online Editor
-
-Presentations are written using HTML or Markdown but there's also an online editor for those of you who prefer a graphical interface. Give it a try at [https://slides.com](https://slides.com?ref=github).
 
 
 ## Instructions
